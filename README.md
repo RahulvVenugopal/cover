@@ -1,5 +1,5 @@
 # Ex.06 Book Front Cover Page Design
-## Date:29.11.2023
+## Date:30.11.2023
 
 ## AIM:
 To design a book front cover page using HTML and CSS.
@@ -118,16 +118,16 @@ Publish the website in the LocalHost.
              <body>
              <div class="bookpage">
              <div class="insight">
-                SEC INSIGHT
+                SEC SERIES
              </div>
              <div class="hrstyle">
                 <hr style="color: yellow;">
              </div>
              <div class="booktitle">
-             <h1>Web Development: The Complete Reference</h1>
+             <h1>Fundamentals of Computer Networking </h1>
              </div>
              <div class="subtitle">
-             with Django and Bootstrap Insights
+             <b>The complete guide to Networking</b>
              </div>
              <div class ="mypic">
                <img src="photo.jpg" width="130" height="145" alt="">
@@ -149,7 +149,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (41).png>)
+![Alt text](<Screenshot (42).png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
